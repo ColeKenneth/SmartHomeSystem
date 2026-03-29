@@ -26,7 +26,7 @@ pattern matching, Optional, and the Stream API.
 ## Learning Context
 
 This project was built as part of a self-study journey mastering Java,
-progressing from OOP → Defensive Programming → Data-Oriented Programming.
+progressing from Fundamentals -> OOP → Defensive Programming → Data-Oriented Programming.
 
 **Roadmap:**
 ```
